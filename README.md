@@ -26,7 +26,7 @@ src="https://telegra.ph/file/f0f4d04f08771075168f2.jpg"  width="220" height="220
 
 <div align="center">
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%FFFF00&size=15&lines=We+Cloned+A+Base+Added+Some+Scripts;Now+U+Can+Deploy+Ur+Self%2C+Enjoy+The+Service)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%FFFFF&size=15&lines=We+Cloned+A+Base+Added+Some+Scripts;Now+U+Can+Deploy+Ur+Self%2C+Enjoy+The+Service)](https://git.io/typing-svg)
 <p align="center">
 
 
